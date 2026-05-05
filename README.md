@@ -1,7 +1,7 @@
 # Web Technologien // begleitendes Projekt Sommersemester 2026
 Zum Modul Web Technologien gibt es ein begleitendes Projekt. Im Rahmen dieses Projekts werden wir von Veranstaltung zu Veranstaltung ein Projekt sukzessive weiter entwickeln und uns im Rahmen der Veranstaltung den Fortschritt anschauen, Code Reviews machen und Entwicklungsschritte vorstellen und diskutieren.
 
-Als organisatorischen Rahmen für das Projekt nutzen wir GitHub Classroom. Inhaltlich befassen wir uns mit einer  Client-Server Anwendung mit deren Hilfe IPTC Metadaten von Bildern schnell und einfach gepflegt werden können.
+Als organisatorischen Rahmen für das Projekt nutzen wir GitHub Classroom. Inhaltlich befassen wir uns mit einer wiederverwendbaren, dokumentierten JavaScript-Library, die Körperdaten aus der Kamera via ML im Browser erkennt und als **Custom Browser Events** bereitstellt — sodass jede Web-Anwendung mit einem simplen `addEventListener` auf Hände, Gesten, Pose oder Nähe reagieren kann.
 
 Dokumentieren Sie in diesem Beibootprojekt Ihre Entscheidungen gewissenhaft unter Zuhilfenahme von [Architectual Decision Records](https://adr.github.io) (ADR).
 
